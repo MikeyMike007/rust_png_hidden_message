@@ -1,0 +1,21 @@
+# Compiled files
+target/
+Cargo.lock
+
+# Generated documentation
+doc/
+
+# Generated binaries
+*.rs.bk
+
+# Editor-specific temporary files
+.vscode/
+.idea/
+
+# Environment configuration
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
